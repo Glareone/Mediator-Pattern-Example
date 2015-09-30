@@ -10,9 +10,9 @@ namespace Pattern_Mediator
     {
         static void Main()
         {
-            var executor1 = new Executor("Glareone", @"D:\mads\", "KILL THEM ALL");
-            var executor2 = new Executor("Lis", @"C:\mads\", "LIE TO ALL");
-            var executor3 = new Executor("BeerGod", @"D:\beer\", "BeerToAll");
+            var executor1 = new Executor("Glareone", @"D:\mads\1.txt", "KILL THEM ALL");
+            var executor2 = new Executor("Lis", @"C:\mads\1.txt", "LIE TO ALL");
+            var executor3 = new Executor("BeerGod", @"D:\beer\1.txt", "BeerToAll");
 
             List<Executor> listofMads = new List<Executor> { executor1, executor2 }; 
             

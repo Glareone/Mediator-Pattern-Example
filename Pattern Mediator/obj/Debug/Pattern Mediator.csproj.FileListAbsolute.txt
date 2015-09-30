@@ -4,3 +4,9 @@ D:\Myproject_git\Mediator Pattern Example\Pattern Mediator\Pattern Mediator\bin\
 D:\Myproject_git\Mediator Pattern Example\Pattern Mediator\Pattern Mediator\obj\Debug\Pattern Mediator.csprojResolveAssemblyReference.cache
 D:\Myproject_git\Mediator Pattern Example\Pattern Mediator\Pattern Mediator\obj\Debug\Pattern Mediator.exe
 D:\Myproject_git\Mediator Pattern Example\Pattern Mediator\Pattern Mediator\obj\Debug\Pattern Mediator.pdb
+D:\Myproject_git\Mediator-Pattern-Example\Pattern Mediator\bin\Debug\Pattern Mediator.exe.config
+D:\Myproject_git\Mediator-Pattern-Example\Pattern Mediator\obj\Debug\Pattern Mediator.exe
+D:\Myproject_git\Mediator-Pattern-Example\Pattern Mediator\obj\Debug\Pattern Mediator.pdb
+D:\Myproject_git\Mediator-Pattern-Example\Pattern Mediator\bin\Debug\Pattern Mediator.exe
+D:\Myproject_git\Mediator-Pattern-Example\Pattern Mediator\bin\Debug\Pattern Mediator.pdb
+D:\Myproject_git\Mediator-Pattern-Example\Pattern Mediator\obj\Debug\Pattern Mediator.csprojResolveAssemblyReference.cache
