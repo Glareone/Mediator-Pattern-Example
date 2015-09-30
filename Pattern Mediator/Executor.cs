@@ -1,9 +1,4 @@
-﻿// -----------------------------------------------------------------------
-// <copyright file="Executor.cs" company="LLamasoft">
-// Copyright LLamasoft, 2015
-// </copyright>
-// ----------------------------------------------------------------------- 
-namespace Pattern_Mediator
+﻿namespace Pattern_Mediator
 {
     using System;
     using System.Diagnostics.CodeAnalysis;
